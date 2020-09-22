@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>123.jpg</filename>
+	<path>/home/nada/Desktop/object-detection/images/Train/123.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>my bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>164</ymin>
+			<xmax>294</xmax>
+			<ymax>677</ymax>
+		</bndbox>
+	</object>
+</annotation>
