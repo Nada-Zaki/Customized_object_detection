@@ -1,5 +1,5 @@
 # Customized_object_detection
-#SSD_mobile_net_model     #Tensorflow API
+#SSD_mobile_net_model     #Tensorflow API    #Transfer_learning
 
 I trained my own dataset (two objects) on SSD mobile_net model trained on COCO dataset using tensorflow API.
 
