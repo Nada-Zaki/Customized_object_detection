@@ -1,7 +1,3 @@
-# Customized_object_detection
-#SSD_mobile_net_model     #Tensorflow API    #Transfer_learning
-
-
 # Overview
 The TensorFlow Object Detection API is an open source framework built on top of TensorFlow that makes it easy to construct, train and deploy object detection   models.
 
