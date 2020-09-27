@@ -1,0 +1,9 @@
+item {
+  id: 1
+  name: 'my bottle'
+}
+
+item {
+  id: 2
+  name: 'my image'
+}
