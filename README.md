@@ -3,6 +3,8 @@ The TensorFlow Object Detection API is an open source framework built on top of 
 
 In this repository, I used SSD mobilenet pre-trained model which is trained on COCO dataset to train on my own dataset.
 
+![results](webcam_results/result4)
+
 
 # Steps
 
